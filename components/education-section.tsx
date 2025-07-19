@@ -11,7 +11,7 @@ export function EducationSection() {
       institution: "Information Technology Institute (ITI)",
       degree: "Professional Training Program - Open Source Track",
       year: "2025",
-      description: "Comprehensive 9-month intensive program covering full-stack development with modern technologies",
+      description: "Comprehensive 9-Month Professional program covering full-stack development with modern technologies",
       achievements: [
         "Graduation Project: ITIans Community & Job Platform",
         "Multiple hands-on projects",
